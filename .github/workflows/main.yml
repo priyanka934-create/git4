@@ -7,7 +7,7 @@ jobs:
   runs-on: ubuntu-latest
   steps:
   - name: Checkout repository
-   run: echo "test.java"
+    run: echo "test.java"
    
 
   
